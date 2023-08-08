@@ -21,6 +21,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
+    "domready": "^1.0.8",
     "jquery": "^3.7.0"
   }
 }

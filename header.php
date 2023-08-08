@@ -14,7 +14,7 @@ if (isset($titulo)) {
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <link rel="stylesheet" href="assets/css/reset.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    
+    <script src="dist/bundle.js" ></script>
 </head>
 
 <body>
