@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: $larguraContainer;/* defino uma largura máxima */
+    margin: 0 auto;/* centralizo elementos block */
+}
+

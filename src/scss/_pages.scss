@@ -1,0 +1,12 @@
+
+a.efeito-zoom {
+    img {
+        transition: all 1s ease-in-out;
+    }
+
+    &:hover {
+        img {
+            transform: scale(1.1);
+        }
+    }
+}

@@ -1,0 +1,38 @@
+.fundo-gradiente{
+  background: linear-gradient(to right, red, yellow);
+  min-height: 96px;
+  display:flex;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  .logotipo img {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    a {
+      font-weight: bold;
+      display: block;
+      padding: 10px 15px;
+      background-color: #ffe5d1;
+      border-radius: 10px;
+      transition: all 500ms;
+      text-decoration: none;
+      &:hover {
+        background-color: $corSecundaria;
+      }
+    }
+    li {
+      &.amarelo {
+        background-color: yellow;
+      }
+    }
+  }
