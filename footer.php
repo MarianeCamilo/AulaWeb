@@ -13,15 +13,15 @@
             </ul>
         </div>
         <div class="col-md-3 col-sm-6">
-            <h4>Coluna 1</h4>
+            <h4>Coluna 2</h4>
             <p>Aqui é meu roda pé</p>
         </div>
         <div class="col-md-3 col-sm-6">
-            <h4>Coluna 1</h4>
+            <h4>Coluna 3</h4>
             <p>Aqui é meu roda pé</p>
         </div>
         <div class="col-md-3 col-sm-6">
-            <h4>Coluna 1</h4>
+            <h4>Coluna 4</h4>
             <p>Aqui é meu roda pé</p>
         </div>
     </div>
