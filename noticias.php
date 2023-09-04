@@ -5,7 +5,7 @@ include_once __DIR__ . "/config/connection.php";
 ?>
 
 <main>
-    <div class="container">
+    <div class="container mt-5">
         <h1>Notícias do Senac</h1>
         <div class="row">
             <?php
@@ -23,8 +23,6 @@ include_once __DIR__ . "/config/connection.php";
                     echo '</div>';
                     echo '</div>';
                     echo '</div>';
-
-                    
                 }
             }
             ?>
@@ -34,5 +32,5 @@ include_once __DIR__ . "/config/connection.php";
 
 
 <?php
-include __DIR__ . "footer.php";
+include __DIR__ . "/footer.php";
 ?>
